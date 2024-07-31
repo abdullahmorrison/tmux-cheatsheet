@@ -8,6 +8,7 @@ Window:
 - Create: <prefix> c
 - Rename: <prefix> ,
 - Close: <prefix> &
+- Swap Window: <prefix> :swap-window -s [window-num] -t [window-num]
 
 Pane:
 - New horizontal pane: <prefix> %
