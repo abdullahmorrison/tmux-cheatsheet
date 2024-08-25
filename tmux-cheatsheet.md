@@ -13,3 +13,4 @@ Window:
 Pane:
 - New horizontal pane: <prefix> %
 - New vertical pane: <prefix> "
+- Close Pane: <prefix> x y (x kills, y confirms)
