@@ -14,3 +14,5 @@ Pane:
 - New horizontal pane: <prefix> %
 - New vertical pane: <prefix> "
 - Close Pane: <prefix> x y (x kills, y confirms)
+- Display pane numbers: <prefix> q
+- Swap pane: <prefix> :swap-pane -s [pane_num] -t [pane_num] (-s is optional)
