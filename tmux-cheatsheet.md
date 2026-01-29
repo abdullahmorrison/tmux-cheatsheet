@@ -13,6 +13,7 @@ Window:
 Pane:
 - New horizontal pane: <prefix> %
 - New vertical pane: <prefix> "
-- Close Pane: <prefix> x y (x kills, y confirms)
+- Close pane: <prefix> x y (x kills, y confirms)
+- Resize pane: <prefix> ctrl + arrow keys
 - Display pane numbers: <prefix> q
 - Swap pane: <prefix> :swap-pane -s [pane_num] -t [pane_num] (-s is optional)
